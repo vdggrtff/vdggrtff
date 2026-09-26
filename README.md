@@ -18,7 +18,7 @@
 
   <!-- 💥 КАРТОЧКА СТАТИСТИКИ (В темно-фиолетовой теме Tokyonight на русском!) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vdggrtf&show_icons=true&locale=ru&theme=tokyonight&hide_border=true&bg_color=16161e" alt="Статистика vdggrtff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vdggrtff/vdggrtff&show_icons=true&locale=ru&theme=tokyonight&hide_border=true&bg_color=16161e" alt="Статистика vdggrtff" />
   </p>
 
   <br>

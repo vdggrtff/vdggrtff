@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🐲 Vlad / Mobile & KMP Engineer</h1>
+  <h1>🐲 VDGGRTF / Mobile & KMP Engineer</h1>
 
   <p>
     Building next-generation mobile applications and exploring cutting-edge cryptography.<br>

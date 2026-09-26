@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vdggrtff/vdggrtff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🐲 Vlad / Mobile & KMP Engineer</h1>
 
-Here are some ideas to get you started:
+  <p>
+    Building next-generation mobile applications and exploring cutting-edge cryptography.<br>
+    Creator of <strong><a href="https://github.com/vdggrtff/GhostGram">GhostGRAM</a></strong> (Compose Multiplatform Telegram Client) & <strong>PlayLog</strong>.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- 💥 ИКОНКИ ТВОЕГО СТЕКА (Skill Icons) -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,compose,cpp,sqlite,git,linux,idea,gradle,figma" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- 💥 КАРТОЧКА СТАТИСТИКИ (В темно-фиолетовой теме Tokyonight на русском!) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=vdggrtff&show_icons=true&locale=ru&theme=tokyonight&hide_border=true&bg_color=16161e" alt="Статистика Vlad" />
+  </p>
+
+  <br>
+
+  <!-- КОНТАКТЫ -->
+  <p>
+    <a href="https://t.me/vdggrtff">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
+
+</div>

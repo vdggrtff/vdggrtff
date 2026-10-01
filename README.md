@@ -16,18 +16,13 @@
 
   <br>
 
-  <!-- 💥 КАРТОЧКА СТАТИСТИКИ (В темно-фиолетовой теме Tokyonight на русском!) -->
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdggrtff&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Langs" />
-</p>
-
   <br>
 
   ### 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/vdggrtf/GhostGram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdggrtf&repo=GhostGram&theme=tokyonight&hide_border=true" alt="GhostGRAM" />
+  <a href="https://github.com/vdggrtff/GhostGram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdggrtff&repo=GhostGram&theme=tokyonight&hide_border=true" alt="GhostGRAM" />
   </a>
 </p>
 
